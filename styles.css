@@ -1,0 +1,60 @@
+body 
+  {background-color: #5aa9e6;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;}
+
+.container 
+  {max-width: 600px;
+  margin: 0 auto;
+  padding: 30 px 60px;}
+ 
+
+
+#city-name
+  {margin-top: 60px;}
+
+h1
+  {margin-bottom: 60px;}
+
+.units
+  {font-size: 15px;
+  position: relative;
+  top: -10px;}
+
+.icon
+  {font-size: 25px;}
+
+
+.card
+  {background-color: #7fc8f8;
+  color: white;}
+
+.head-icon 
+  {font-size: 30px}
+.fa-sun
+  {color: #ffdd00;}
+.fa-cloud-sun
+  {color: yellow;}
+.fa-cloud
+  {color: #c0c0c0;}
+.fa-cloud-showers-heavy
+  {color: #274c77;}
+
+.humidity 
+  {margin-top: 40px;
+  margin-bottom: 15px;}
+
+.search
+  {margin: 20px 0px 20px 20px;
+  padding-right: 150px;
+  background-color: #c1e0ff;}
+#search-button
+  {margin: 20px 0px 20px 20px;
+  margin-right: 10px;}
+#search-button:hover
+  {cursor: pointer;}
+#location-button
+  {margin: 20px 0px 20px 20px;
+  margin-left: 10px;}
+#location-button:hover
+  {cursor: pointer;}
